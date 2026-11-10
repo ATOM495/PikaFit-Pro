@@ -1,0 +1,8 @@
+{
+  "name": "Remix PikaFit Pro",
+  "description": "Tactical RPG fitness, nutrition, and progressive overload tracker powered by Gemini AI and Firestore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
